@@ -16,3 +16,14 @@ body::before{
     width: 100%;
     border-radius: 10px;
 }
+
+.mapouter {
+    position: relative;
+    text-align: right;
+}
+
+
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+}
